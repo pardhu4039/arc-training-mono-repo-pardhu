@@ -1,0 +1,6 @@
+environment = "dev"
+namespace   = "arc"
+name        = "tn"
+region      = "us-east-1"
+project_name = "test-arc"
+db_type      = "aurora"
